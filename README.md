@@ -24,7 +24,7 @@ The code for the paper submitted for the KDD'18 conference (Applied Data Science
 - **evaluation_encoding.py** - encoding evaluation datasets (RandomPAINS/RandomNoPAINS/DCM) by subgraphs obtained on the previous step (put corresponding *S9_hless.gsp*, *S10_hless.gsp*, *S11_hless.gsp* into *evaluation* subfolder)
 - **evaluation.py** - learning a classifier from the data obtained on step 2, performing evaluation, building confusion matrices and histograms (uses activity values in *activity_S9.txt* and *activity_S10.txt* in *evaluation* subfolder)
 
-**System requirements**: Python 2.7, networkx library.
+System requirements: Python 2.7, networkx library.
 
 The data is available here: https://zimmermanna.users.greyc.fr/supplementary-material.html
 
