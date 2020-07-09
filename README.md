@@ -1,5 +1,5 @@
 # PrePeP - A Tool for the Identification and Characterization of Pan Assay Interference Compounds
-The code for the paper presented at KDD'18 conference (Applied Data Science Track):
+The code for the paper presented at KDD'18 (Applied Data Science Track):
 https://dl.acm.org/doi/abs/10.1145/3219819.3219849
 
 ## Data preparation
